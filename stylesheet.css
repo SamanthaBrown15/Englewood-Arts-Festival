@@ -1,0 +1,25 @@
+@import url(bootstrap.css);
+
+body {
+
+    background-image:url('power2.jpg');
+  
+}
+
+h2 {
+   background-color: White;
+}
+
+
+a {
+  color: #0088cc;
+} 
+
+p {
+  font-size: 22px;
+}
+
+p {
+   background-color:GoldenRod;
+}
+
