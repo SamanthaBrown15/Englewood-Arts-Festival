@@ -1,25 +1,33 @@
 @import url(bootstrap.css);
 
-body {
 
-    background-image:url('power2.jpg');
-  
+body {
+       background-image:url('samantha2.jpg'); 
+} 
+
+h1 {
+    color:Gold;
+    text-align:Center;
+    font-family:"TimesNewRoman";
+    
 }
 
 h2 {
-   background-color: White;
+   color:GoldenRod;
+   font-family:"TimesNewRoman";
+   background-color:Yellow;
+}
+  
+p  {
+     color:DarkTurquoise;
+    text-align:Center;
+    font-family:"TimesNewRoman";
+   background-color:DarkGoldenRod;
 }
 
-
-a {
-  color: #0088cc;
-} 
-
-p {
-  font-size: 22px;
+h3 {
+     color:DarkGoldenRod;
+     front-family:TimesNewRoman;
 }
 
-p {
-   background-color:GoldenRod;
-}
 
